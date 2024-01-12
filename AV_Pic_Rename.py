@@ -1,7 +1,7 @@
 import os
 
 if __name__ == '__main__':
-     # 專案路徑
+    # 專案路徑
     project_dir = 'Y:/BT/JAV_output/'
     # project_dir = './JAV_output/'
     source = os.walk(project_dir)
